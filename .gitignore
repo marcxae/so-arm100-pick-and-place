@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ROS2 / colcon
+install/
+log/
+
+# Media
+*.mp4
+*.mov
