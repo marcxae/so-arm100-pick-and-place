@@ -12,26 +12,7 @@
 
 ## Demo
 
-<!--
-  TODO: replace this block once you have the clip ready.
-
-  Option A — GIF (simplest, renders everywhere, autoplays):
-    1. Trim your footage to ~10-15s of a full pick-and-place cycle.
-    2. Convert to GIF with ffmpeg:
-         ffmpeg -i demo.mp4 -vf "fps=12,scale=640:-1:flags=lanczos" -loop 0 docs/media/demo.gif
-    3. Commit docs/media/demo.gif and uncomment the line below.
-
-  Option B — actual video (better quality, click-to-play):
-    1. Open a new GitHub Issue (or edit this file) in the web UI and drag-and-drop
-       the .mp4 file into the text box — GitHub uploads it and gives you a URL like
-       https://github.com/<user>/<repo>/assets/<id>/<file>.mp4
-    2. Paste that URL directly on its own line in this README; GitHub renders an
-       inline video player automatically.
--->
-
-<!-- ![Pick-and-place demo](docs/media/demo.gif) -->
-
-*(Demo GIF/video goes here — full autonomous cycle: detection, approach, grasp, transfer, release.)*
+https://github.com/user-attachments/assets/080a36d8-453e-4cb0-beaa-694eee4f4056
 
 ---
 
