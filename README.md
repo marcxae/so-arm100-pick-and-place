@@ -1,4 +1,4 @@
-# SO-ARM100 Autonomous Pick-and-Place
+# SO-ARM100 Autonomous Pick-and-Place (Missing archives at the moment)
 
 **Vision-guided autonomous pick-and-place system for the SO-ARM100 robotic arm**, built as a Bachelor's Thesis in Robotics Engineering (Universitat Jaume I). Distributed architecture: a PC handles computer vision and coordination over ROS 2, while a Raspberry Pi Zero 2 W performs embedded, real-time actuator control over UART — no ROS 2 required on the embedded side.
 
